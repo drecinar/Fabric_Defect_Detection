@@ -3,4 +3,4 @@ It is a well-known fact that image processing has been used in science and indus
 The primary aim of this article is to provide a publicly available, annotated comparison to directly compare detection and classification methods. In this context, a wide fabric image dataset containing both defective and non-defective samples will be used. Additionally, different methods have been thoroughly examined, and five of these methods have been selected and applied to the designated image set. The obtained results are also presented in detail 
 
 
-Project Resul Aydemir 
+
